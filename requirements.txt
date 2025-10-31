@@ -1,0 +1,24 @@
+# Core libraries
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+joblib==1.4.2
+
+# Streamlit for UI
+streamlit==1.39.0
+
+# Text processing
+nltk==3.9.1
+
+# Optional ML model enhancements
+xgboost==2.1.1
+
+# Visualization (optional but nice for insights)
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# For JSON / file handling
+pyyaml==6.0.2
+
+# Web dependencies (in case of API extensions later)
+requests==2.32.3

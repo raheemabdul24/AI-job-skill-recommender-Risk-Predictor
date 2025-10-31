@@ -1,0 +1,211 @@
+{
+  "AI Researcher": [
+    "python;deep learning;statistics",
+    "java;algorithms;data structures",
+    "html;css;javascript"
+  ],
+  "AI Specialist": [
+    "data science;machine learning;python",
+    "java;algorithms;data structures",
+    "html;css;javascript"
+  ],
+  "Automation Engineer": [
+    "data visualization;python;r",
+    "python;automation;data analysis",
+    "project management;agile;communication"
+  ],
+  "Backend Developer": [
+    "financial analysis;excel;econometrics",
+    "java;spring;microservices",
+    "python;data analysis;machine learning"
+  ],
+  "Biostatistician": [
+    "graphic design;ui/ux;adobe creative suite",
+    "cloud computing;devops;python",
+    "machine learning;r;python"
+  ],
+  "Business Analyst": [
+    "business analysis;excel;sql",
+    "digital marketing;seo;content creation",
+    "python;deep learning;statistics",
+    "sql;data warehousing;r",
+    "machine learning;big data;python",
+    "c#;.net;software design"
+  ],
+  "Cloud Engineer": [
+    "data visualization;python;r",
+    "cloud computing;python;devops",
+    "project management;agile;communication"
+  ],
+  "Content Strategist": [
+    "content writing;storytelling;seo",
+    "sql;data warehousing;etl",
+    "java;algorithms;data structures",
+    "html;css;javascript",
+    "copywriting;seo;social media"
+  ],
+  "Cybersecurity Analyst": [
+    "c++;embedded systems;iot",
+    "network security;linux;python",
+    "ux research;prototyping;interaction design"
+  ],
+  "Cybersecurity Specialist": [
+    "python;cybersecurity;network security",
+    "network security;linux;python",
+    "javascript;react;node.js"
+  ],
+  "Data Analyst": [
+    "sql;data analysis;excel",
+    "digital marketing;seo;content creation",
+    "python;javascript;data visualization",
+    "sql;data warehousing;etl",
+    "javascript;react;node.js",
+    "network security;linux;python",
+    "python;data visualization;r",
+    "financial analysis;excel;econometrics",
+    "c#;.net;software design",
+    "python;data analysis;machine learning",
+    "java;algorithms;data structures",
+    "data visualization;python;r",
+    "html;css;javascript",
+    "python;data analysis;sql"
+  ],
+  "Data Engineer": [
+    "c++;embedded systems;iot",
+    "python;big data;machine learning",
+    "ux research;prototyping;interaction design"
+  ],
+  "Data Scientist": [
+    "javascript;react;node.js",
+    "network security;linux;python",
+    "python;data mining;statistics",
+    "python;data analysis;machine learning",
+    "financial analysis;excel;econometrics"
+  ],
+  "Deep Learning Engineer": [
+    "python;tensorflow;deep learning",
+    "data visualization;python;r",
+    "project management;agile;communication"
+  ],
+  "DevOps Engineer": [
+    "javascript;react;node.js",
+    "network security;linux;python",
+    "cloud computing;devops;python"
+  ],
+  "Digital Marketer": [
+    "digital marketing;seo;content creation",
+    "digital marketing;seo;content strategy",
+    "content writing;seo;social media",
+    "java;system design;cloud computing",
+    "copywriting;seo;social media",
+    "sql;data warehousing;etl",
+    "research;statistical analysis;python",
+    "digital marketing;analytics;seo",
+    "digital marketing;content creation;seo",
+    "c#;.net;software design"
+  ],
+  "Embedded Systems Engineer": [
+    "c++;embedded systems;iot",
+    "sql;data warehousing;etl",
+    "copywriting;seo;social media"
+  ],
+  "Financial Analyst": [
+    "python;deep learning;statistics",
+    "graphic design;ui/ux;adobe creative suite",
+    "cloud computing;devops;python",
+    "financial analysis;excel;econometrics",
+    "python;data analysis;r",
+    "machine learning;big data;python"
+  ],
+  "Front-end Developer": [
+    "html;css;javascript;ux",
+    "research;statistical analysis;python",
+    "html;css;javascript",
+    "java;system design;cloud computing"
+  ],
+  "Full Stack Developer": [
+    "javascript;react;node.js",
+    "graphic design;ui/ux;adobe creative suite",
+    "cloud computing;devops;python"
+  ],
+  "Graphic Designer": [
+    "machine learning;big data;python",
+    "digital marketing;seo;content creation",
+    "python;deep learning;statistics",
+    "java;algorithms;data structures",
+    "digital illustration;adobe illustrator;creativity",
+    "graphic design;illustration;adobe illustrator",
+    "html;css;javascript",
+    "graphic design;illustration;adobe creative suite",
+    "content creation;graphic design;adobe photoshop",
+    "c#;.net;software design"
+  ],
+  "Machine Learning Engineer": [
+    "python;machine learning;ai",
+    "python;machine learning;tensorflow",
+    "c++;embedded systems;iot",
+    "python;data analysis;machine learning",
+    "ux research;prototyping;interaction design",
+    "financial analysis;excel;econometrics",
+    "machine learning;big data;python"
+  ],
+  "Marketing Manager": [
+    "marketing strategy;digital marketing;crm",
+    "research;statistical analysis;python",
+    "java;system design;cloud computing"
+  ],
+  "Mobile Developer": [
+    "c++;embedded systems;iot",
+    "java;android;ui design",
+    "ux research;prototyping;interaction design"
+  ],
+  "NLP Engineer": [
+    "python;natural language processing;machine learning",
+    "python;nlp;deep learning",
+    "data visualization;python;r",
+    "project management;agile;communication"
+  ],
+  "Project Manager": [
+    "project management;communication;agile",
+    "c++;embedded systems;iot",
+    "ux research;prototyping;interaction design",
+    "project management;risk analysis;negotiation",
+    "data visualization;python;r",
+    "project management;agile;communication"
+  ],
+  "Research Analyst": [
+    "python;statistics;data mining",
+    "sql;data warehousing;etl",
+    "copywriting;seo;social media"
+  ],
+  "Research Scientist": [
+    "financial analysis;excel;econometrics",
+    "research;statistical analysis;r",
+    "research;statistical analysis;python",
+    "python;data analysis;machine learning"
+  ],
+  "Software Developer": [
+    "digital marketing;seo;content creation",
+    "graphic design;ui/ux;adobe creative suite",
+    "cloud computing;devops;python",
+    "java;algorithms;data structures",
+    "c#;.net;software design"
+  ],
+  "Software Engineer": [
+    "research;statistical analysis;python",
+    "java;system design;cloud computing"
+  ],
+  "UX Designer": [
+    "python;deep learning;statistics",
+    "graphic design;ui/ux;adobe creative suite",
+    "cloud computing;devops;python",
+    "user research;ux design;prototyping",
+    "graphic design;ux/ui;adobe xd",
+    "machine learning;big data;python"
+  ],
+  "UX Researcher": [
+    "sql;data warehousing;etl",
+    "copywriting;seo;social media",
+    "ux research;prototyping;interaction design"
+  ]
+}
