@@ -97,4 +97,4 @@ if submitted:
 # Footer
 # ===========================
 st.markdown("---")
-st.caption("Built with ❤️ using Streamlit and scikit-learn.")
+st.caption("Built by Musab Wasiuddin")
