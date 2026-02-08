@@ -113,6 +113,6 @@ This project is licensed under the MIT License – you’re free to use, modify,
 
 
 👨‍💻 Author:
-Developed by Musab Wasiuddin
+Developed by Abdul Raheem
 💼 Passionate about AI, automation, and skill intelligence systems.
 📧 Feel free to reach out for collaboration or feedback!
