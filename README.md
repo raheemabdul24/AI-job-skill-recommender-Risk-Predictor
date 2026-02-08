@@ -1,4 +1,4 @@
-# AI-Job-market-insight-skill-recommender
+# AI-Job-market-insight-skill-recommender and Risk Predictor
 # 🤖 AI Job Market Insight & Skill Recommender
 
 An intelligent web application built with **Streamlit** that helps users:
